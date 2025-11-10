@@ -22,7 +22,7 @@ Each folder in this repository contains an individual project implemented using 
 ```
 roadmap-projects/
 ├── frontend/
-│ ├── single-page-cv/ # HTML + CSS Project
+│ ├── single-page-cv/
 │ ├── portfolio-website/ # Frontend portfolio challenge
 │ └── ... # Other frontend projects
 │
@@ -103,6 +103,9 @@ cd frontend/single-page-cv
 ### Open or run the project
 
 Refer to the individual project’s README.md for setup or usage instructions.
+
+### Completed Projects
+- [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 
 ### License
 
